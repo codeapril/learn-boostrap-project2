@@ -1,0 +1,71 @@
+h1{
+color: white;
+text-align: center;
+font-family: monospace;
+font-weight: bold;
+font-size: 70px;
+}
+
+.jumbotron{
+padding: 20px 0px 20px 0px;
+margin: 0px 0px 0px 0px;
+background-color: grey;
+}
+.top-info{
+
+font-family:monospace;
+text-align: center;
+color: dark grey;
+margin: 0px 0px 0px 0px;
+
+}
+
+.card-group{
+
+padding: 0px 0px 0px 0px;
+margin: 0px;
+
+
+
+}
+.card-img-top{
+
+width: 100%;
+height: 25vw;
+object-fit: cover;
+padding: 0px;
+margin: 0px;
+
+
+}
+.card{
+
+
+  height: 25vw;
+  object-fit: cover;
+  background-color: black;
+  border-radius: 0;
+}
+.nav-link {
+color: white;
+font-family: monospace;
+font-size: 18px;
+}
+
+body{
+background-color: #b4b1b3;
+}
+
+.content{
+
+background-color: black;
+
+}
+.sub-head{
+padding: 20px;
+text-align: center;
+font-size: 12px;
+font-family: monospace;
+font-weight: bolder;
+color: white;
+}
